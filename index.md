@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Ronald Mangang
+
+Welcome to my site. I will be uploading my research articles and writing my blogs here.
 
 You can use the [editor on GitHub](https://github.com/ronaldmangang/ronaldmangang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
