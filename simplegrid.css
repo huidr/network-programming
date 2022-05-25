@@ -189,6 +189,10 @@ body {
 	}
 	
 	h1 {
-		font-size: 50%;
+		font-size: 80%;
 	}
+	
+	.grid-pad {
+	padding: 0px 10px 0px 10px;
+}
 }
