@@ -181,4 +181,10 @@ body {
 		padding-right: 20px;
 		hyphens: auto;
 	}
+	
+	body {
+	    margin: 0px;
+	    font-size: 100%;
+	    line-height: 140%;
+	}
 }
