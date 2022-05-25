@@ -49,7 +49,7 @@ body {
 
 [class*='col-'] {
 	float: left;
-	padding-right: 0px;
+	padding-right: 20px;
 }
 
 [class*='col-']:last-of-type {
