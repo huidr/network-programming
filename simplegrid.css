@@ -71,7 +71,7 @@ body {
 }
 
 .grid-pad {
-	padding: 0px 30px 0px 30px;
+	padding: 0px 0px 0px 0px;
 }
 
 .grid-pad > [class*='col-']:last-of-type {
@@ -165,8 +165,8 @@ body {
 		min-width: 0;
 		margin-left: 0px;
 		margin-right: 0px;
-		padding-left: -20px;
-		padding-right: -20px;
+		padding-left: 0px;
+		padding-right: 0px;
 		hyphens: auto;
 		font-size: 85%;
 	}
