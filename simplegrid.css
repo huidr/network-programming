@@ -169,6 +169,7 @@ body {
 		padding-right: 0px;
 		hyphens: auto;
 		font-size: 85%;
+		line-height: 120%;
 	}
 	
 	[class*='col-'] {
