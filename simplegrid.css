@@ -187,4 +187,8 @@ body {
 		padding-right: 20px;
 		hyphens: auto;
 	}
+	
+	h2 {
+		font-size: 400%;
+	}
 }
