@@ -44,7 +44,7 @@ a:hover {
 body {
     margin: 0px;
     font-size: 110%;
-    line-height: 120%;
+    line-height: 125%;
 }
 
 [class*='col-'] {
@@ -161,7 +161,7 @@ body {
 @media handheld, only screen and (max-width: 767px) {
 
 	.grid {
-		width: 100%;
+		width: 110%;
 		min-width: 0;
 		margin-left: 0px;
 		margin-right: 0px;
