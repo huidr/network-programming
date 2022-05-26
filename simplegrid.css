@@ -49,7 +49,7 @@ ul {
 body {
     margin: 0px;
     font-size: 110%;
-    line-height: 125%;
+    line-height: 130%;
 }
 
 [class*='col-'] {
@@ -188,7 +188,7 @@ body {
 		hyphens: auto;
 	}
 	
-	h {
+	h1 {
 		font-size: small;
 	}
 }
