@@ -205,8 +205,7 @@ body {
 	}
 
 	a:hover {
-	    	text-decoration: underline;
-		box-shadow: none;
-    		color: auto;
+		background-color: #440099;
+		color: #dacceb;
 	}
 }
