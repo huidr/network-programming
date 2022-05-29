@@ -37,9 +37,9 @@ a {
 }
 
 a:hover {
-    box-shadow: inset 900px 0 0 0  #4a13c6;
-    color: white;
-}
+		background-color: #4a13c6;
+		color: white;
+	}
 
 ul {
     /*list-style-position: inside; */
@@ -55,7 +55,7 @@ ul {
 body {
     margin: 0px;
     font-size: 110%;
-    line-height: 135%;
+    line-height: 135%;n
 }
 
 [class*='col-'] {
@@ -82,7 +82,7 @@ body {
 }
 
 .grid-pad {
-	padding: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 10px;
 }
 
 .grid-pad > [class*='col-']:last-of-type {
@@ -202,10 +202,5 @@ body {
 	    font-size: 150%;
 	    padding-top: 15px;
 	    padding-bottom: 4px;
-	}
-
-	a:hover {
-		background-color: #4a13c6;
-		color: white;
 	}
 }
